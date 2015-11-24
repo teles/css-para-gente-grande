@@ -1,4 +1,4 @@
-# CSS styleguide
+# CSS para gente grande
 
 ## Arquitetura de diretórios para projetos css
 
