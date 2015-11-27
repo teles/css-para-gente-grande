@@ -31,7 +31,8 @@
 ## Zen do css
 - [ ] - Explícito é melhor que implícito
 - [ ] - Nomeei pelo contexto não pela aparência
-- [ ] - O estilo sem media-queries é o estilo mobile
+- [ ] - Escreva primeiro para mobile
+- [ ] - Renderize primeiro para mobile
 
 ## Arquitetura de diretórios para projetos css
 
