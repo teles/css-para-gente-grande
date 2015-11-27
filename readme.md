@@ -22,6 +22,7 @@
 - [ ] - Tenha uma paleta de cores.
 - [ ] - Defina cores por contexto baseado na sua paleta.
 - [ ] - Crie um sistema de iconfont baseado em glifos.
+- [ ] - Padronize seus espaçamentos
 - [ ] - Documente seu css
 
 ## Nomenclatura
@@ -30,6 +31,7 @@
 ## Zen do css
 - [ ] - Explícito é melhor que implícito
 - [ ] - Nomeei pelo contexto não pela aparência
+- [ ] - O estilo sem media-queries é o estilo mobile
 
 ## Arquitetura de diretórios para projetos css
 
