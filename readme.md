@@ -1,5 +1,36 @@
 # CSS para gente grande
 
+## Tópicos
+
+### Diretórios e arquivos
+
+- [ ] O que tem no diretório base/?
+- [ ] O que tem no diretório base/properties/?
+- [ ] O que tem no diretório base/utilities/?
+- [ ] O que tem no diretório helpers/?
+- [ ] O que tem no diretório helpers/functions/?
+- [ ] O que tem no diretório helpers/mixin/s?
+- [ ] O que tem no diretório helpers/variables/?
+- [ ] O que tem no diretório modules/?
+- [ ] O que tem no diretório module/module-1/?
+- [ ] O que tem no arquivo-principal?
+ 
+### Boas práticas
+- [ ] - Declares seus imports em um único arquivo.
+- [ ] - Não tenha media-queries em arquivos separados.
+- [ ] - Defina seus breakpoints como variáveis.
+- [ ] - Tenha uma paleta de cores.
+- [ ] - Defina cores por contexto baseado na sua paleta.
+- [ ] - Crie um sistema de iconfont baseado em glifos.
+- [ ] - Documente seu css
+
+## Nomenclatura
+- [ ] - Nomenclatura para componentes, classes aninhadas, estados, e variações.
+
+## Zen do css
+- [ ] - Explícito é melhor que implícito
+- [ ] - Nomeei pelo contexto não pela aparência
+
 ## Arquitetura de diretórios para projetos css
 
 A estrutura de um projeto css pode ser definida a partir da estrutura de diretórios e arquivos. A seguir um exemplo de estrutura de arquivos que segue o css-styleguide:
